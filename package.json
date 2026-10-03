@@ -1,0 +1,23 @@
+{
+  "name": "jigsawexplorer-tracker-crx",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Jigsaw Explorer Completion Tracker",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.4.0",
+    "@types/chrome": "^0.1.37",
+    "vite": "^8.0.0",
+    "vite-plugin-zip-pack": "^1.2.4"
+  },
+  "author": "peshka",
+  "homepage": "https://github.com/thepeshka/jigsawexplorer-tracker-crx#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepeshka/jigsawexplorer-tracker-crx.git"
+  }
+}
